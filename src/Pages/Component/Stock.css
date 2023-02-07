@@ -1,0 +1,107 @@
+.menu-icon {
+  position: relative;
+  top: 40px;
+  left: 10px;
+  max-width: 20px;
+}
+.name-price {
+  position: relative;
+  top: 5px;
+  left: 54px;
+  max-width: 45px;
+}
+.stock-type {
+  position: relative;
+  bottom: 47px ;
+  left: 105px;
+  max-width: 100px;
+}
+.quantity-invested {
+  position: relative;
+  top: -110px;
+  left: 212px;
+  max-width: 210px;
+}
+
+.quantity-invested-value {
+  position: relative;
+  bottom: 175px;
+  left: 358px;
+  max-width: 85px;
+}
+
+.market-profit {
+  position: relative;
+  bottom: 237px;
+  left: 445px;
+  max-width: 210px;
+}
+
+.market-profit-value {
+  position: relative;
+  bottom: 306px;
+  left: 593px;
+  max-width: 60px;
+}
+
+
+.unreal-return {
+  position: relative;
+  bottom: 347px;
+  left: 665px;
+  max-width: 200px;
+}
+
+.unreal-return-value {
+  position: relative;
+  bottom: 416px;
+  left: 785px;
+  max-width: 85px;
+}
+
+.bottons {
+  position: relative;
+  bottom: 465px;
+  left: 875px;
+  max-width: 80px;
+}
+.progress-bar {
+  max-width: 8px;
+}
+
+.progress {
+  width: 100%;
+	border: 1px solid #aeaeae;
+	background-color: #eaeaea;
+  height: 10px;
+}
+
+.ext {
+	width: 50%;
+padding: 2px 0;
+}
+.ext.neg {
+border-right: 1px solid black;
+}
+.ext.pos {
+margin-left: 50%;
+border-left: 1px solid black;
+}
+
+.ext.neg .bar {
+  background-color: red;
+}
+
+.ext.pos .bar {
+  background-color: green;
+}
+
+.bar {
+  height: 8px;
+  position: relative;
+  top: -2px;
+}
+
+.profit {
+  background-color: green;
+}
